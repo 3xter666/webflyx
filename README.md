@@ -1,1 +1,1 @@
-Just learning how to use git and github,dont bother it
+Just learning how to use git and github,don't bother it
