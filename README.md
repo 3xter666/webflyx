@@ -1,1 +1,1 @@
-Just a repo to learn how to use GitHub,don't bother it lol 
+Just a repo to learn how to use GitHub,plz don't mind it lol 
